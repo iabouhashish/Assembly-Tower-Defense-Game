@@ -29,7 +29,7 @@ You just need to run the Altera Monitor Program, Set up the project for use on a
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/theapaz/Assembly-Tower-Defense-Game/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
