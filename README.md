@@ -29,13 +29,14 @@ You just need to run the Altera Monitor Program, Set up the project for use on a
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/theapaz/Assembly-Tower-Defense-Game/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * **Ibrahim Abouhashish**
 * **Alex Lee**
-* Original work is found [here](https://github.com/theapaz/Assembly-Tower-Defense-Game)
+
+Original work is found [here](https://github.com/theapaz/Assembly-Tower-Defense-Game)
 
 ## License
 
