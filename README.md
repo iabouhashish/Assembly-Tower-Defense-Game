@@ -35,7 +35,7 @@ Please read [CONTRIBUTING.md](https://github.com/theapaz/Assembly-Tower-Defense-
 
 * **Ibrahim Abouhashish**
 * **Alex Lee**
-Original work is found [here](https://github.com/theapaz/Assembly-Tower-Defense-Game)
+* Original work is found [here](https://github.com/theapaz/Assembly-Tower-Defense-Game)
 
 ## License
 
